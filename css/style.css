@@ -1,0 +1,15 @@
+.navbar {
+    float: left;
+    text-align: left;
+    position:fixed;    
+    max-width: 50%;
+    width: 50%;
+    left: 8;
+    top: 0;
+}
+
+@media screen and (max-width: 992px) {
+    body {
+      background-color: blue;
+    }
+  }
